@@ -10,5 +10,5 @@ And we use the Imagenet pre-trained weights and trained it on a smaller dataset 
 
 Attention:
 
-Put the data set of stanford dog in the directory of ./data or set the attribute 'download' of dataloader to be True
+Put the data set of stanford dog in the directory of ./data or set the attribute 'download' of the dataloader to be True
 
